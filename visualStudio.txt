@@ -1,0 +1,8 @@
+0.비쥬얼스튜디오 설치시 c++를 이용한 데스크톱개발 및 최신 v143빌드 도구용 c++MFC
+                                                                             windowsX SDK
+1. console app project 생성 
+2. 솔루션은 여러 프로젝트를 묶는 콘테이너
+3. run program Ctrl + F5 -> 단순 결과만 빨리 보고싶을때
+   debug program F5 -> 중단점 설정해서 한줄씩
+   f10->한줄씩 디버그, 함수내부코드 보지 않음
+   f11->함수내부까지
