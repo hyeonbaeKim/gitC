@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\gitC\\testSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20CEEA95-13EC-47A5-8DCA-1AB84B2D9081}|testProject\\testProject.vcxproj|C:\\Users\\user\\Desktop\\gitC\\testSolution\\testProject\\testProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{20CEEA95-13EC-47A5-8DCA-1AB84B2D9081}|testProject\\testProject.vcxproj|solutionrelative:testProject\\testProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C3AC0565-F102-4244-880C-5FB6CCB40C03}|WorkerThreadSync\\WorkerThreadSync.vcxproj|C:\\Users\\user\\Desktop\\gitC\\testSolution\\WorkerThreadSync\\WorkerThreadSync.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AC0565-F102-4244-880C-5FB6CCB40C03}|WorkerThreadSync\\WorkerThreadSync.vcxproj|solutionrelative:WorkerThreadSync\\WorkerThreadSync.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C0B3F5-825B-497C-A5F9-8FF604E7BF3E}|WorkerThreadCreate\\WorkerThreadCreate.vcxproj|C:\\Users\\user\\Desktop\\gitC\\testSolution\\WorkerThreadCreate\\WorkerThreadCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73C0B3F5-825B-497C-A5F9-8FF604E7BF3E}|WorkerThreadCreate\\WorkerThreadCreate.vcxproj|solutionrelative:WorkerThreadCreate\\WorkerThreadCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +17,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 19,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 42,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -35,24 +31,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 117,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerThreadCreate.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\gitC\\testSolution\\WorkerThreadCreate\\WorkerThreadCreate.cpp",
+              "RelativeDocumentMoniker": "WorkerThreadCreate\\WorkerThreadCreate.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\gitC\\testSolution\\WorkerThreadCreate\\WorkerThreadCreate.cpp",
+              "RelativeToolTip": "WorkerThreadCreate\\WorkerThreadCreate.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T15:44:44.652Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "testProject.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\gitC\\testSolution\\testProject\\testProject.cpp",
-              "RelativeDocumentMoniker": "testProject\\testProject.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\gitC\\testSolution\\testProject\\testProject.cpp",
-              "RelativeToolTip": "testProject\\testProject.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "WorkerThreadSync.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\gitC\\testSolution\\WorkerThreadSync\\WorkerThreadSync.cpp",
+              "RelativeDocumentMoniker": "WorkerThreadSync\\WorkerThreadSync.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\gitC\\testSolution\\WorkerThreadSync\\WorkerThreadSync.cpp",
+              "RelativeToolTip": "WorkerThreadSync\\WorkerThreadSync.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-22T20:24:41.917Z",
+              "WhenOpened": "2025-10-06T15:44:26.386Z",
               "EditorCaption": ""
             }
           ]
